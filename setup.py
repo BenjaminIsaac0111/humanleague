@@ -60,7 +60,7 @@ setup(
   description = 'Microsynthesis using quasirandom sampling and/or IPF',
   author = 'Andrew P Smith',
   author_email = 'a.p.smith@leeds.ac.uk',
-  url = 'http://github.com/virgesmith/humanleague',
+  url = 'http://github.com/Benjaminisaac0111/humanleague',
   long_description = readme(),
   long_description_content_type="text/markdown",
   cmdclass = {'build_ext': BuildExtNumpyWorkaround},
